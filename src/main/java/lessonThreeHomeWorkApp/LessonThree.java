@@ -1,7 +1,7 @@
 /*Created by Rizat Orazalina 17.09.2021*/
 package lessonThreeHomeWorkApp;
 
-public class Arrays {
+public class LessonThree{
     static int count = 0;
     public static void main(String[] args) {
 
